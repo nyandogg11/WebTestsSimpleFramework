@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebTestsSimpleFramework", "WebTestsSimpleFramework\WebTestsSimpleFramework.csproj", "{62190F90-3E96-4174-A01B-9E0A48AF00B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTestsSimpleFramework", "UnitTestProject1\ApiTestsSimpleFramework.csproj", "{294075B9-B7C8-4B6D-9F68-871ADABEA3DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62190F90-3E96-4174-A01B-9E0A48AF00B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62190F90-3E96-4174-A01B-9E0A48AF00B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62190F90-3E96-4174-A01B-9E0A48AF00B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62190F90-3E96-4174-A01B-9E0A48AF00B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{294075B9-B7C8-4B6D-9F68-871ADABEA3DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294075B9-B7C8-4B6D-9F68-871ADABEA3DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294075B9-B7C8-4B6D-9F68-871ADABEA3DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294075B9-B7C8-4B6D-9F68-871ADABEA3DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65F2C6A6-2DD8-4247-8FBE-FE9D93EA1F07}
+	EndGlobalSection
+EndGlobal
