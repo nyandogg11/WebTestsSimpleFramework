@@ -1,2 +1,2 @@
 # WebTestsSimpleFramework
-WebTestsSimpleFramework
+Сделал от скуки, может кому понадобится. Хотя кого я обманываю
